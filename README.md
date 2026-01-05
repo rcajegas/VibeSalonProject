@@ -2,7 +2,7 @@
 
 A professional salon and barber website built for GitHub Pages using HTML, CSS, and JavaScript.
 
-Use this link [https://github.com/rcajegas/VibeSalonProject](https://rcajegas.github.io/VibeSalonProject/)
+Use this link https://rcajegas.github.io/VibeSalonProject/
 
 <img width="1577" height="850" alt="image" src="https://github.com/user-attachments/assets/01d4a435-f36c-46b8-b096-7e0cfa737716" />
 
