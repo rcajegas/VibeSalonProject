@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book Appointment | Vibe Salon</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<section class="page">
+  <h1>Book an Appointment</h1>
+
+  <form id="bookingForm">
+    <label>Name</label>
+    <input type="text" id="name" required>
+
+    <label>Date</label>
+    <input type="date" id="date" required>
+
+    <div class="actions">
+      <button type="submit" class="btn primary">Confirm Booking</button>
+      <button type="reset" class="btn danger">Cancel</button>
+    </div>
+  </form>
+</section>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
